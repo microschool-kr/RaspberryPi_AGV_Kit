@@ -1,3 +1,3 @@
 # RpiAGV
 
-![img](IMG_3322.jpg)
+![img](/img/IMG_3322.jpg)
