@@ -39,17 +39,17 @@ signal.signal(signal.SIGINT, signal_handler)
 
 try:
     while True:
-        #print("Motor forward at full speed")
-        #motor_forward(1.0)  # 모터를 최대 속도로 앞으로 회전
-        #sleep(2)  # 2초간 회전
+        print("Motor forward at full speed")
+        motor_forward(1.0)  # 모터를 최대 속도로 앞으로 회전
+        sleep(2)  # 2초간 회전
 
-        #print("Motor stop")
-        #motor_stop()  # 모터 정지
-        #sleep(2)  # 2초간 정지
+        print("Motor stop")
+        motor_stop()  # 모터 정지
+        sleep(2)  # 2초간 정지
 
-        #print("Motor backward at half speed")
-        #motor_backward(0.5)  # 모터를 절반 속도로 뒤로 회전
-        #sleep(2)  # 2초간 회전
+        print("Motor backward at half speed")
+        motor_backward(0.5)  # 모터를 절반 속도로 뒤로 회전
+        sleep(2)  # 2초간 회전
 
         print("Motor stop")
         motor_stop()  # 모터 정지
