@@ -13,9 +13,14 @@ pip install -r requirements.txt
  
 
 # 하드웨어 연결 
-## 라즈베리파이 4 
 
-|GPIO#|기능|--|
+## 라즈베리파이 4 
+- OS버전: 64bit bookworm
+
+## 모터드라이버 
+- [MDDS10](https://robu.in/wp-content/uploads/2015/08/MDDS10-Users-Manual.pdf) 
+
+|GPIO#|기능|설명|
 |------|---|--|
 |12|AIN2|오른쪽 모터를위한  PWM 신호 입력|  
 |13|AIN1|왼쪽 모터를 위한 PWM 신호 입력|
