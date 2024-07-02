@@ -4,8 +4,8 @@ from time import sleep
 # 모터드라이버 핀 설정
 AIN2 = PWMOutputDevice(12)
 AIN1 = PWMOutputDevice(13)
-DIG2 = DigitalOutputDevice(23)
-DIG1 = DigitalOutputDevice(24)
+DIG2 = DigitalOutputDevice(19)
+DIG1 = DigitalOutputDevice(16)
 
 # 모터 초기화 함수
 def initialize_motors():
