@@ -33,6 +33,7 @@ pip install -r requirements.txt
 ![Motor](/img/lineconnection.png)
 ## 회로도 
 ![schematic](/img/schematic_v1.png)
+: 모터의 전원을 모터드라이버의 MLA, MLB, MRA, MRB에 연결한다. 
 
 ## 라즈베리파이 4 
 - OS버전: 64bit bookworm
