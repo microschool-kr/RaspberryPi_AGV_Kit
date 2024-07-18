@@ -18,13 +18,6 @@ p2 = GPIO.PWM(AN2, 100)
 
 try:
     while True:
-        print("Forward")
-        GPIO.output(DIG1, GPIO.HIGH)
-        GPIO.output(DIG2, GPIO.HIGH)
-        p1.start(50)
-        p2.start(50)
-        sleep(5)
-        
         print("Backward")
         GPIO.output(DIG1, GPIO.LOW)
         GPIO.output(DIG2, GPIO.LOW)
