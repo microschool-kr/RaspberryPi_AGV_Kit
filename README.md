@@ -60,6 +60,13 @@ sudo apt-get install python3-rpi.gpio
 ## 모터드라이버 
 - [MDDS10](https://robu.in/wp-content/uploads/2015/08/MDDS10-Users-Manual.pdf) 
 
+## 참고자료
+- [brushed moter와 brushless motor모터](https://m.blog.naver.com/sh2030100/222022813291)
+- [엔코더란?](https://gdnn.tistory.com/83)
+- [PWM제어란](https://blog.naver.com/lagrange0115/222345576071)
+- [모터](https://www.motorbank.kr/goods/goods_view.php?goodsNo=1000021868)
+- [베터리](http://www.eurekashop.co.kr/shop/shopdetail.html?branduid=173110&search=&sort=price2)
+
 
 
 
